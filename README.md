@@ -1,3 +1,7 @@
+#                          Special Thanks too Zeropoison
+
+
+
 # Reverse Shell Project
 This repository contains a simple implementation of a reverse shell using Python. It includes two main components:
 
