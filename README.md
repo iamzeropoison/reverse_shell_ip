@@ -35,7 +35,7 @@ This script is intended to be run on the target machine. When executed, it will 
 
 ## How to Execute This Command
 
-``bash
+```bash
 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
 cd reverse_shell_ip
 python3 server.py  # Always put your machine IP
