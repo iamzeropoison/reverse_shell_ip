@@ -30,8 +30,8 @@ Once the connection is established, you can execute commands on the target machi
 ________________________________________________________________________________________
 
 #                           ** How we Execute this command **
-@                 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
-                               cd reverse_shell_ip                
+#                 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
+#                              cd reverse_shell_ip                
 ________________________________________________________________________________________
 # Important Notes
 Usage Warning:
