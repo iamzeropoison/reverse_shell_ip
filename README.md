@@ -27,6 +27,11 @@ The target executes the script, which connects back to your server.
 # 3: Access:
 Once the connection is established, you can execute commands on the target machine remotely.
 
+
+#                               How we Execute this command
+@                 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
+$                               cd reverse_shell_ip                
+
 # Important Notes
 Usage Warning:
 This project is intended for educational purposes to demonstrate the basics of a reverse shell. Unauthorized access to computers or networks is illegal and unethical. Always obtain explicit permission before conducting any security-related activities.
