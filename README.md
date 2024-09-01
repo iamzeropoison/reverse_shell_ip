@@ -39,10 +39,11 @@ This script is intended to be run on the target machine. When executed, it will 
 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
 cd reverse_shell_ip
 python3 server.py  # Always put your machine IP
-python3 client.py  # Send it to your victim; it's good if you bind with any pic# Important Notes
+python3 client.py  # Send it to your victim; it's good if you bind with any pic
+```
+# Important Notes
 Usage Warning:
 This project is intended for educational purposes to demonstrate the basics of a reverse shell. Unauthorized access to computers or networks is illegal and unethical. Always obtain explicit permission before conducting any security-related activities.
-```
 
 ## Dependencies:
 This project requires Python 3. Ensure you have Python 3 installed on both server and client machines.
