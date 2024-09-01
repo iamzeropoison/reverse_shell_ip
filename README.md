@@ -35,32 +35,32 @@ This script is intended to be run on the target machine. When executed, it will 
 
 ## How to Execute This Command
 
-```bash
+``bash
 git clone https://github.com/iamzeropoison/reverse_shell_ip.git
 cd reverse_shell_ip
 python3 server.py  # Always put your machine IP
 python3 client.py  # Send it to your victim; it's good if you bind with any pic# Important Notes
 Usage Warning:
-This project is intended for educational purposes to demonstrate the basics of a reverse shell. Unauthorized access to computers or networks is illegal and unethical. Always obtain explicit permission before conducting any security-related activities.
+This project is intended for educational purposes to demonstrate the basics of a reverse shell. Unauthorized access to computers or networks is illegal and unethical. Always obtain explicit permission before conducting any security-related activities. 
 
 
-# Dependencies:
+## Dependencies:
 This project requires Python 3. Ensure you have Python 3 installed on both server and client machines.
 
-# Binding with Files:
+## Binding with Files:
 You can bind the client.py script to other file types (e.g., images) to make it less suspicious, but this action is not recommended for any unlawful purposes.
 
-# How to Run
-# 1: Server Side:
+## How to Run
+## 1: Server Side:
 
 Edit server.py to specify your IP address.
 Run the script using: python3 server.py.
 
-# 2: Client Side:
+## 2: Client Side:
 Distribute client.py to the target.
 Once executed by the target, it will initiate a connection to your server.
 
-# Disclaimer
+## Disclaimer
 This project is for learning purposes only. Misuse of this tool can lead to serious legal consequences. Always use such tools responsibly and within the bounds of the law.
 
 
